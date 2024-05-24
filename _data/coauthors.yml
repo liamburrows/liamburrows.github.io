@@ -1,10 +1,10 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"guo":
+  - firstname: ["Weihong", "W."]
+    url: https://mathstats.case.edu/faculty/weihong-guo/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"chen":
+  - firstname: ["Ke", "K."]
+    url: https://www.liverpool.ac.uk/~cmchenke/
 
 "rosen":
   - firstname: ["Nathan", "N."]

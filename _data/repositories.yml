@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - liamburrows
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - liamburrows/Variational-and-Convex-Model-of-the-Blake-Zisserman-Type-for-Segmentation-of-Low-Contrast
+  - liamburrows/Selective-MumfordShah
+  - liamburrows/RKHS_Segmentation
+  - liamburrows/DIP_selective_segmentation_and_registration
+
+teaching_repos:
+  -liamburrows/CMIT_Lectures_2022
+  -liamburrows/CMIT_Lectures_2023

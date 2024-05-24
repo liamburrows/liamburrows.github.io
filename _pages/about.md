@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Associate, University of Bath.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lb2668@bath.ac.uk</p>
+    <p>Dept. Mechanical Engineering</p>
+    <p>University of Bath</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral research associate at the University of Bath. 
+My main research interests lie in medical image segmentation and image registration using novel deep learning methods as well as more mathematical, variational methods. I am particularly interested in the intersection of these two areas.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current work is on the development of an AI screening tool for pulmonary hypertension, working in collaboration with the Royal United Hospitals Bath NHS Trust.
+Funding is provided by [the AI award from the National Institute for Health and Care Research (NIHR)](https://www.nihr.ac.uk/explore-nihr/funding-programmes/ai-award.htm)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received a masters in Mathematics 2017 from the University of Liverpool, and subsequently completed a PhD in 2022 on topics of medical image segmentation by way of variational and deep learning methods. Since I have worked as a postdoctoral research associate at the University of Liverpool and University of Bath.
+
+During my experience in academia I  have collaborated with various NHS trusts and industry partners on a wide variety of projects, including: 
+* Segmenting abdominal aortic aneurysms (CT) and tracking progression.
+* Segmentation of brain tumours (MR) (meningioma, glioma).
+* Segmentation of lung tumours in mouse models (MR).
+* Segmenting stromal compartment and stromal stain biomarkers for colorectal cancer digital pathology images (TMAs).
+* Segmenting pulmonary arteries and ascending aorta, and applying statistical shape methods to inform diagnosis of pulmonary hypertension. 
